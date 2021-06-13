@@ -1,3 +1,3 @@
-# Reverse-Strings-in-Java
+### Reverse A String in Java
 
-A simple script that reverse strings in java 
+This is a simple script which reverses a string in java 
